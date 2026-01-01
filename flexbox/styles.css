@@ -19,6 +19,11 @@
   justify-content: space-between;
 }
 
+.menu .date {
+    margin-right: auto; 
+    margin-left: auto; /* Margin property used to add space around a specific element, similar to individual item alignment */
+}
+
 .links {
     display: flex;
     justify-content: flex-end;
